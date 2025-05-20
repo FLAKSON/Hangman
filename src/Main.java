@@ -1,6 +1,4 @@
 import game.Game;
-import game.RandomWordGenerator;
-
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 

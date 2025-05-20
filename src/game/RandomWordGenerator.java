@@ -18,4 +18,5 @@ public class RandomWordGenerator {
         int index = rand.nextInt(words.size());
         return words.get(index);
     }
+
 }

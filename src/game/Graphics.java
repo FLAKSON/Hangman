@@ -1,5 +1,6 @@
 package game;
 
+
 public class Graphics {
     public void drawHangman(int hp) {
         if (hp == 6) {
