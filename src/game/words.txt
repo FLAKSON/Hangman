@@ -211,3 +211,5 @@ zilch
 zipper
 zodiac
 zombie
+ass
+birthday
